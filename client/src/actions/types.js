@@ -1,0 +1,6 @@
+export const GET_ARTIKELS = 'GET_ARTIKELS';
+export const ADD_ARTIKEL = 'ADD_ARTIKEL';
+export const DELETE_ARTIKEL = 'DELETE_ARTIKEL';
+export const PUT_ARTIKEL = 'PUT_ARTIKEL';
+export const ARTIKELS_LOADING = 'ARTIKELS_LOADING';
+
